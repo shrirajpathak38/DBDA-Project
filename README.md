@@ -18,6 +18,7 @@ A Brain tumor is considered as one of the aggressive diseases, among children an
 - Machine Learning
 - Deep Learning
 - Few Shot Learning
+- Transfer Learning
 - Optimization
 - Optuna
 - Raytune
