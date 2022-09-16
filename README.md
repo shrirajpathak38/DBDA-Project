@@ -32,7 +32,3 @@ A Brain tumor is considered as one of the aggressive diseases, among children an
 ## Acknowledgement
 
 This project **“Automatic Optimal N-Shot learning for Brain Tumor Detection”** was a great learning experience for us and we are submitting this work to Advanced Computing Training School, Bangalore (CDAC ACTS).
-
-We all are very glad to mention the name of Mr. Ramesh Naidu (Joint Director, CDAC R&D) for his valuable guidance on this project. His support helped us to overcome and understand various intricacies during the course of this project.
-
-Our heartfelt appreciation goes to Ms. Uma Prasad (Course Coordinator, PG-DBDA) as well, who gave us all the required support and coordination providing us with necessities like extra Lab hours to complete the project and helped us throughout the course up to the last day at C-DAC ACTS, Bangalore.
